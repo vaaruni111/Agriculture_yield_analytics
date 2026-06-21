@@ -138,7 +138,7 @@ Zero missing values
 
 ### Most Common Soil Type
 
-* Loamy
+* Clay
 
 
 ---
