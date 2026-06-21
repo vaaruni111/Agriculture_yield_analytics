@@ -43,7 +43,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 ## Q2. Data Types and Missing Values
 
 ### Data Types of the columns
-![Data type](screenshots/Screenshots/Datatype_A.png)
+![Dataype](screenshots/Screenshots/Dataype_A.png)
 
 ### Missing Values Analysis
 Zero missing values
@@ -53,7 +53,7 @@ Zero missing values
 
 ### Summary Statistics
 
-![Summary Stats](screenshots/Screenshots/Summarystatistics_A.png)
+![Summary Statistics](screenshots/Screenshots/Summarystatistcs_A.png)
 
 ### Highest Mean Value
 
