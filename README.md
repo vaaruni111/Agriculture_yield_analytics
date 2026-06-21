@@ -37,13 +37,13 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 * yield_ton_per_hectare
 
 ### First 10 Records
-
+![Preview records](screenshots/Screenshots/10records_A.png)
 ---
 
 ## Q2. Data Types and Missing Values
 
 ### Data Types of the columns
-
+![Data type](screenshots/Screenshots/Datatype_A.png)
 
 ### Missing Values Analysis
 Zero missing values
@@ -53,7 +53,7 @@ Zero missing values
 
 ### Summary Statistics
 
-*(Insert output of describe() here)*
+![Summary Stats](screenshots/Screenshots/Summarystatistics_A.png)
 
 ### Highest Mean Value
 
@@ -72,7 +72,7 @@ Zero missing values
 
 ### Rainfall Distribution
 
-*(Insert Histogram)*
+![Rainfall Distribution](screenshots/Screenshots/HistRainfall_B.png)
 
 #### Observations
 
@@ -84,7 +84,7 @@ Zero missing values
 
 ### Temperature Distribution
 
-*(Insert Histogram)*
+![temperature Distribution](screenshots/Screenshots/HistTemp_B.png)
 
 #### Observations
 
@@ -96,7 +96,7 @@ Zero missing values
 
 ### Fertilizer Distribution
 
-*(Insert Histogram)*
+![Fertilizer Distribution](screenshots/Screenshots/HistFert_B.png)
 
 #### Observations
 
@@ -108,7 +108,7 @@ Zero missing values
 
 ### Yield Distribution
 
-*(Insert Histogram)*
+![Yield](screenshots/Screenshots/HistYield_B.png)
 
 #### Observations
 
@@ -122,7 +122,7 @@ Zero missing values
 
 ### Count Plot
 
-*(Insert Plot)*
+![Crop Count](screenshots/Screenshots/BarCrop_B.png)
 
 ### Most Frequent Crop
 
@@ -134,7 +134,7 @@ Zero missing values
 
 ### Count Plot
 
-*(Insert Plot)*
+![Soil Count](screenshots/Screenshots/BarSoil_B.png)
 
 ### Most Common Soil Type
 
@@ -147,7 +147,7 @@ Zero missing values
 
 ### Histogram
 
-*(Insert Histogram)*
+![Yield](screenshots/Screenshots/HistYield_B.png)
 
 ### Questions
 
@@ -170,13 +170,13 @@ Zero missing values
 
 ### Rainfall vs Yield
 
-*(Insert Scatter Plot)*
+![Scatter rainfall vs yield](screenshots/Screenshots/ScatterRain_B.png)
 
 ---
 
 ### Fertilizer vs Yield
 
-*(Insert Scatter Plot)*
+![Scatter fertilixer vs yield](screenshots/Screenshots/ScatterFert_B.png)
 
 ### Which feature has a stronger relationship with yield?
 
@@ -191,7 +191,7 @@ Zero missing values
 
 ### Correlation Heatmap
 
-*(Insert Heatmap)*
+![HeatMap](screenshots/Screenshots/Heatmap_B.png)
 
 ### Top Three Features Most Correlated with Yield
 
